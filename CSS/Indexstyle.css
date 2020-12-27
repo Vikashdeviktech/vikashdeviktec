@@ -93,7 +93,7 @@ ul{
 }
 
 #tent{
-  background-image: url("../Images/tent.png");
+ /*  background-image: url("../Images/logoslider.jpg"); */
   background-repeat: no-repeat;
   background-size: cover;
   height: 600px;
